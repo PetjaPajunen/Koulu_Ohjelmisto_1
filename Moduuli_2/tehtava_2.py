@@ -1,3 +1,3 @@
 säde = float(input("Ympyrän säde: "))
-pintaAla = 2 * 3.14 * säde
-print(pintaAla)
+pintaAla1 = 2 * 3.14 * säde
+print(pintaAla1)
